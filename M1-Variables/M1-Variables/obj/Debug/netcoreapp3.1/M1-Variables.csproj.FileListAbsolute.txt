@@ -1,0 +1,13 @@
+C:\Users\jpola\source\repos\M\M1-Variables\M1-Variables\bin\Debug\netcoreapp3.1\M1-Variables.exe
+C:\Users\jpola\source\repos\M\M1-Variables\M1-Variables\bin\Debug\netcoreapp3.1\M1-Variables.deps.json
+C:\Users\jpola\source\repos\M\M1-Variables\M1-Variables\bin\Debug\netcoreapp3.1\M1-Variables.runtimeconfig.json
+C:\Users\jpola\source\repos\M\M1-Variables\M1-Variables\bin\Debug\netcoreapp3.1\M1-Variables.runtimeconfig.dev.json
+C:\Users\jpola\source\repos\M\M1-Variables\M1-Variables\bin\Debug\netcoreapp3.1\M1-Variables.dll
+C:\Users\jpola\source\repos\M\M1-Variables\M1-Variables\bin\Debug\netcoreapp3.1\M1-Variables.pdb
+C:\Users\jpola\source\repos\M\M1-Variables\M1-Variables\obj\Debug\netcoreapp3.1\M1-Variables.csprojAssemblyReference.cache
+C:\Users\jpola\source\repos\M\M1-Variables\M1-Variables\obj\Debug\netcoreapp3.1\M1-Variables.AssemblyInfoInputs.cache
+C:\Users\jpola\source\repos\M\M1-Variables\M1-Variables\obj\Debug\netcoreapp3.1\M1-Variables.AssemblyInfo.cs
+C:\Users\jpola\source\repos\M\M1-Variables\M1-Variables\obj\Debug\netcoreapp3.1\M1-Variables.csproj.CoreCompileInputs.cache
+C:\Users\jpola\source\repos\M\M1-Variables\M1-Variables\obj\Debug\netcoreapp3.1\M1-Variables.dll
+C:\Users\jpola\source\repos\M\M1-Variables\M1-Variables\obj\Debug\netcoreapp3.1\M1-Variables.pdb
+C:\Users\jpola\source\repos\M\M1-Variables\M1-Variables\obj\Debug\netcoreapp3.1\M1-Variables.genruntimeconfig.cache
